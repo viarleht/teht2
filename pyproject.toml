@@ -1,0 +1,18 @@
+[project]
+name = "poetry init -python \"^3-10\""
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Lehtikangas Vilppu Artturi",email = "vilppu.a.lehtikangas@student.jyu.fi"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+]
+
+[tool.poetry]
+packages = [{include = "poetry init _python \"^3"}]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
