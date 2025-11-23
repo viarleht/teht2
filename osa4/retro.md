@@ -1,0 +1,5 @@
+Retrospektiivi on sprintin (tai muun samankaltaisen) jälkeen pidettävä kokousmainen tuokio, jonka tarkoituksena on kartoittaa "mikä meni hyvin, mikä huonosti" jne. tyylisiä mielipiteitä suoritetusta sprintistä. Tarkastellaan kahta eri retrospektiivi mallia: 
+
+"Start, Stop, Continue, More of, Less off -wheel" on retrospektiivimalli, jossa haetaan avointa palautetta sprintin suorittaneelta tiimiltä käyttäen kuuteen osaan jaettua ympyräkiekkoa. Kiekon paloihin on merkitty kentät start, stop, continue, more of ja less of, joita apunakäyttäen haetaan palautetta kysymyksiin "Mitä uutta meidän pitäisi kokeilla?", "Mitä meidän ei pitäisi tehdä?", "Mitä hyvin toiminutta asiaa pitäisi käyttää myös tulevissa sprinteissä?" ja "Mitä halutaan lisää" tai "-vähemmän".
+
+"Glad, Sad, Mad" -mallissa taas kerätään tiimin palautetta kolmesta aihepiiristä: "Mistä olit iloinen?", "Mistä olit surullinen?" ja "Mikä ärsytti sinua?". Aihepiireihin liitetään muistiinpanoja, joiden tärkeydestä äänestetään tiimin kesken. Muistiinpanot käydään yhdessä läpi äänestetyssä järjestyksessä ja tilaisuus lopetetaan, kun kaikki muistiinpanot on käyty läpi tai tilaisuuteen on kulunut 60min.
